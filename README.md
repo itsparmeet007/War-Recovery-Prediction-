@@ -130,7 +130,7 @@ n_components_95 = 10                           # 95% variance retained
 |-------|-----------|--------|----|
 | High Recovery | 0.72 | 1.00 ✅ | 0.83 |
 | Low Recovery | 1.00 ✅ | 0.60 | 0.75 |
-| **Overall** | — | — | **80.18%** |
+| **Overall** | 0.80 | 0.80 | **80.18%** |
 
 > Model trained **only on Ukraine-Russia** data correctly predicts **Israel-Palestine** recovery 80% of the time — proving universal conflict recovery patterns exist.
 
